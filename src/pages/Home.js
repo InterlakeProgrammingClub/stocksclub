@@ -57,7 +57,7 @@ const Home = () => {
             whileHover={{ scale: 1.1, translateZ: 50, perspective: 1000, boxShadow: "0px 20px 30px rgba(0, 0, 0, 0.4)", transition: { duration: 0.2 } }}
             className="inline-block mb-4 text-center sm:text-left"
           >
-            <a href="" className="bg-white text-[#0C2340] px-3 py-2 rounded font-bold flex items-center space-x-1 text-lg mt-4">
+            <a href="" className="bg-white text-[#0C2340] px-3 py-2 rounded font-bold flex items-center space-x-1 text-lg mt-0">
               <span>Another action button</span>
             </a>
           </motion.div>
