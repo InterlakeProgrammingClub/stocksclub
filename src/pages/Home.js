@@ -1,11 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
-import { FaClock, FaDollarSign } from 'react-icons/fa';
-import { PiCertificateFill } from "react-icons/pi";
 import headerimg from '../assets/headerimg.jpg';
 import bg2 from '../assets/headerimg.jpg';
-import { BsTools } from 'react-icons/bs';
 
 const Home = () => {
   return (

@@ -1,8 +1,7 @@
 import React from 'react';
-import { FaPhoneAlt, FaMapMarkerAlt, FaEnvelope, FaShare, FaCalendarAlt } from 'react-icons/fa';
+import {FaEnvelope,FaCalendarAlt } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 import headerimg from '../assets/headerimg.jpg';
-import { CiShare2 } from 'react-icons/ci';
 import { FaShareNodes } from 'react-icons/fa6';
 
 const Contact = () => {
